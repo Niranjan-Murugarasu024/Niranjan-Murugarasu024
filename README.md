@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Niranjan</h1>
 
-<!--
-**Niranjan-Murugarasu024/Niranjan-Murugarasu024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/your-username"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Machine+Learning+Enthusiast;Building+Intelligent+Systems;Exploring+AI+%26+Business+Strategy" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an **AI engineering student** passionate about creating practical, impactful solutions using machine learning, deep learning, and data-driven technologies.
+
+🔭 Currently working on end-to-end AI/ML projects — from data processing and model training to deployment and optimization.  
+🌱 Always learning: LLMs, computer vision, NLP, MLOps, responsible AI.  
+💡 Interested in the bigger picture: how AI intersects with **business development**, product strategy, go-to-market, and C-suite decision-making.
+
+### 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <!-- Add more badges for your stack: FastAPI, Docker, AWS, etc. -->
+</p>
+
+### 🚀 Featured Projects
+<!-- Pin your 4–6 best repos on your profile first, then they auto-appear here nicely -->
+Check out my pinned repositories below for live examples of my work!
+
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/niranjan-murugarasu-b8b706289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:niranjanmurugarasu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+ 
+</p>
+
+Thanks for visiting — happy coding! 🚀
