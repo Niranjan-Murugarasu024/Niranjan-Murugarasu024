@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 
 <p align="center">
-  <a href="https://github.com/your-username"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Developer+%7C+Machine+Learning+Enthusiast;Building+Intelligent+Systems;Exploring+AI+%26+Business+Strategy" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&duration=4000&pause=1500&color=E0F2FE&center=true&vCenter=true&width=520&lines=AI+Engineering+Student;Passionate+About+ML+Projects;Exploring+AI+%2B+Business+Leadership" alt="Typing SVG" />
 </p>
 
 ---
