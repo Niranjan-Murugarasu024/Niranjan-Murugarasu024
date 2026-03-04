@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&lines=AI+Engineering+Student;Passionate+About+ML+Projects;Exploring+AI+%2B+Business+Leadership" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=30&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=720&lines=AI+Engineering+Student;Passionate+About+ML+Projects;Exploring+AI+%2B+Business+Leadership" alt="Typing SVG" />
 </p>
 
 ---
