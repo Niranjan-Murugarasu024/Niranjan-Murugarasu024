@@ -1,340 +1,330 @@
 <div align="center">
 
-<!-- =================================================== -->
-<!--   ULTRA-PROFESSIONAL ANIMATED HEADER & CAPSULE BANNER -->
-<!-- =================================================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&custom_color_list=0d1117,161b22,1f2937&height=200&section=header&text=Niranjan%20Murugarasu&fontSize=42&fontColor=4FD1C5&animation=twinkle&fontAlignY=35" width="100%" alt="Niranjan Murugarasu"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&custom_color_list=0d1117,161b22,1f2937&height=200&section=header&text=Niranjan%20Murugarasu&fontSize=42&fontColor=4FD1C5&animation=twinkle&fontAlignY=35" width="100%" alt="Header Capsule Banner"/>
+### Data Engineering • Data Platforms • AI/ML
+
+<p>
+  <a href="https://linkedin.com/in/niranjan-murugarasu-b8b706289">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0C10?style=for-the-badge&logo=linkedin&logoColor=4FD1C5"/>
+  </a>
+  <a href="mailto:niranjanmurugarasu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0C10?style=for-the-badge&logo=gmail&logoColor=FFB454"/>
+  </a>
+  <a href="https://leetcode.com/u/niranjanmurugarasu">
+    <img src="https://img.shields.io/badge/LeetCode-0A0C10?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+  <a href="https://huggingface.co/BlueMen">
+    <img src="https://img.shields.io/badge/Hugging%20Face-0A0C10?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=4FD1C5&center=true&vCenter=true&width=850&height=50&lines=Building+Reliable+Data+Pipelines;SQL+%7C+Python+%7C+PySpark+%7C+Data+Warehousing;Data+Quality+%7C+Data+Modeling+%7C+Lakehouse;AI%2FML+Engineering+as+a+Secondary+Focus" alt="Typing animation"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=4FD1C5&center=true&vCenter=true&width=920&height=55&lines=%F0%9F%A4%96+AI+%26+Data+Science+Engineer+%7C+GenAI+Specialist;%F0%9F%9A%80+Bridging+Applied+ML+%C3%97+Go-To-Market+(GTM)+%26+Business+Strategy;%F0%9F%92%A1+Building+Production-Grade+LLMs%2C+RAG%2C+%26+AI+Evaluation;%E2%9A%A1+Actively+Seeking+Fresher+%2F+Entry-Level+AI+Tech+Roles" alt="Dynamic Typing Header" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=FFB454&center=true&vCenter=true&width=850&height=35&lines=Fine-tuning+%E2%80%A2+LLM+Evaluation+%E2%80%A2+RAG+Pipelines+%E2%80%A2+GTM+Execution;Research+%E2%86%92+Engineering+%E2%86%92+Scalable+Business+Impact" alt="Sub-Header Animated Typing" />
-
-<br/><br/>
-
-<!-- =================================================== -->
-<!--               SOCIALS & CONNECT BADGES              -->
-<!-- =================================================== -->
-
-<a href="https://linkedin.com/in/niranjan-murugarasu-b8b706289" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0C10?style=for-the-badge&logo=linkedin&logoColor=4FD1C5" alt="LinkedIn"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=niranjanmurugarasu@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-0A0C10?style=for-the-badge&logo=gmail&logoColor=FFB454" alt="Email via Gmail"/>
-</a>
-<a href="mailto:niranjanmurugarasu@gmail.com">
-  <img src="https://img.shields.io/badge/Direct_Mail-0A0C10?style=for-the-badge&logo=icloud&logoColor=8B949E" alt="Direct Mail"/>
-</a>
-<a href="https://leetcode.com/u/niranjanmurugarasu" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-0A0C10?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
-</a>
-<a href="https://huggingface.co/BlueMen" target="_blank">
-  <img src="https://img.shields.io/badge/Hugging%20Face-0A0C10?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face"/>
-</a>
-
-<br/><br/>
-
-<!-- Real-time GitHub API Data Badges -->
-<img src="https://img.shields.io/github/followers/Niranjan-Murugarasu024?style=for-the-badge&logo=github&color=4FD1C5&labelColor=0D1117" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Niranjan-Murugarasu024?style=for-the-badge&logo=github&color=FFA116&labelColor=0D1117" alt="Total Stars"/>
+<img src="https://img.shields.io/github/followers/Niranjan-Murugarasu024?style=for-the-badge&logo=github&color=4FD1C5&labelColor=0D1117" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/stars/Niranjan-Murugarasu024?style=for-the-badge&logo=github&color=FFA116&labelColor=0D1117" alt="GitHub Stars"/>
 <img src="https://komarev.com/ghpvc/?username=Niranjan-Murugarasu024&color=4fd1c5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
-<br/>
+---
+
+## 👋 About Me
+
+I'm a **B.Tech Artificial Intelligence & Data Science student** focused on **Data Engineering and Data Platform development**.
+
+I enjoy building reliable systems that transform raw, heterogeneous data into **validated, structured and analytics-ready datasets**.
+
+My current technical focus is:
+
+- 🐍 **Python & SQL**
+- ⚡ **PySpark & distributed data processing**
+- 🏗️ **ETL / ELT & data pipelines**
+- 🏢 **Data Warehousing & dimensional modeling**
+- 🌊 **Data Lakehouse architectures**
+- 🔍 **Data Quality, validation & data reliability**
+- ☁️ **Cloud & data platforms**
+- 🤖 **AI/ML engineering as a complementary specialization**
+
+I am particularly interested in building data systems that are **reproducible, scalable, testable and useful for downstream analytics and AI applications**.
+
+🎯 **Currently seeking:** Data Engineer / Data Platform / Data Engineering internship and fresher opportunities.
 
 ---
 
-## 💫 About Me & Career Vision
+## 🧰 Technical Stack
 
-I am an **Artificial Intelligence & Data Science Engineer** actively looking for a **fresher / entry-level role in the AI Tech Domain**. 
+### 🐍 Programming & Data Processing
 
-What sets me apart is my dual focus: I combine **deep technical AI/ML engineering skills** (LLM fine-tuning, RAG architecture, model evaluation, PyTorch) with a keen interest in **Go-To-Market (GTM) strategy, AI product management, and business growth**. I build AI systems that move beyond notebooks into production while ensuring measurable business ROI and reliability.
-
-### 🌟 Key Highlights & Expertise:
-- 🎓 **Academic Background**: Pursuing AI & Data Science, grounding my engineering work in strong ML mathematics and practical data pipelines.
-- 🤖 **Applied ML & GenAI**: Fine-tuning LLMs (Phi-4-mini, Llama 3.3, CodeBERT), building evaluation frameworks, deterministic guardrails (Pydantic), and high-precision RAG systems.
-- 📈 **GTM & Business Strategy**: Passionate about product-market fit, enterprise AI adoption, commercialization metrics, competitive positioning, and growth strategies for tech products.
-- 🔭 **Current Active Work**: Developing an end-to-end **Voice AI product** and experimenting with **Tiny Recursive Models** (Sudoku → ARC-AGI reasoning tasks).
-- ⚙️ **Hardware & Infra Setup**: Training models locally on an **RTX 4060 GPU** and deploying scalable pipelines via Docker & Cloud GPUs.
-- 💼 **Career Goal**: Join a forward-thinking AI tech company where I can contribute as an **AI Engineer, ML Specialist, or AI Product / GTM Associate**.
-
-<br/>
-
----
-
-## 💻 Tech Stack & Tools
-
-<div align="center">
-
-### 🧠 Artificial Intelligence & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" alt="AI & ML Frameworks" />
-
-<br/>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-<br/>
-
-`Transformers` &nbsp;•&nbsp; `RAG` &nbsp;•&nbsp; `LoRA / QLoRA` &nbsp;•&nbsp; `Unsloth` &nbsp;•&nbsp; `LLM Evaluation` &nbsp;•&nbsp; `Vector DBs` &nbsp;•&nbsp; `Pydantic`
-
-<br/><br/>
-
-### ⚡ Backend & Systems Engineering
-<img src="https://skillicons.dev/icons?i=java,fastapi,express,nodejs,postgres,redis,docker,linux" alt="Backend Stack" />
-
-<br/>
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-<br/><br/>
-
-### 📊 Business Analytics, GTM & Cloud Platforms
-<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,git,github,vscode,figma,postman" alt="Cloud and GTM Tools" />
-
-<br/>
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-# 🚀 Featured AI & Business Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 MedRx
-**Fine-tuned Clinical Recommendation LLM**
-
-<br/>
-
-Fine-tuned **Phi-4-mini-Instruct (3.8B)** using 4-bit QLoRA.
-Built a post-inference deterministic validation layer verifying drug-allergen interactions and dosage ranges before recommendations reach users.
-
-<br/>
-
-A 7-stage data pipeline reduced **172K raw records → 13.7K high-quality domain samples**.
-
-<br/>
-
-`PyTorch` `Unsloth` `QLoRA` `Pydantic` `Medical AI`
-
-<br/>
-
-<a href="https://huggingface.co/BlueMen" target="_blank">View Model on Hugging Face →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ PrepAI
-**Adaptive AI Interview Simulator**
-
-<br/>
-
-AI interview platform using **Llama 3.3 70B via Groq API** to generate context-aware questions from job descriptions and candidate responses.
-
-<br/>
-
-Answers are evaluated through a multi-dimensional rubric with actionable STAR-method performance analytics.
-
-<br/>
-
-`Next.js` `Node.js` `Express` `Groq` `Llama-3.3`
-
-<br/>
-
-<a href="https://github.com/Niranjan-Murugarasu024/PrepAi" target="_blank">View Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 Neural Code Smell Detector
-**Hybrid AI + Static Analysis Engine**
-
-<br/>
-
-Fine-tuned **CodeBERT** to classify Python code smells, coupling neural predictions with AST and Radon static code analysis metrics.
-
-<br/>
-
-Generates an explainable **0–100 code quality score** with actionable AI refactoring suggestions.
-
-<br/>
-
-`PyTorch` `CodeBERT` `AST` `Radon` `Gradio`
-
-<br/>
-
-<a href="https://github.com/Niranjan-Murugarasu024" target="_blank">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 stale-pr-nudger
-**Autonomous Developer Workflow Slack Agent**
-
-<br/>
-
-Created for the Slack Agent Builder Challenge.
-Monitors open GitHub PRs and intelligently nudges code reviewers and assigned contributors before pull requests stagnate.
-
-<br/>
-
-Increases team developer velocity and reduces review bottlenecks.
-
-<br/>
-
-`Python` `Slack API` `GitHub API` `Automation`
-
-<br/>
-
-<a href="https://github.com/Niranjan-Murugarasu024/stale-pr-nudger" target="_blank">View Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Time-Series Stock Forecasting
-**Multi-Architecture Forecasting Pipeline**
-
-<br/>
-
-End-to-end forecasting pipeline implementing **LSTM, GRU, and Transformer** models.
-Features automated backtesting, cross-validation, and multi-model ensemble predictions.
-
-<br/>
-
-Exposed via FastAPI microservices and containerized with Docker.
-
-<br/>
-
-`PyTorch` `FastAPI` `Docker` `Time-Series`
-
-<br/>
-
-<a href="https://github.com/Niranjan-Murugarasu024" target="_blank">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Medicl
-**Healthcare Data Quality & Anomaly Pipeline**
-
-<br/>
-
-Automates missing-value handling, schema validation, outlier filtering, and anomaly detection.
-Uses **Autoencoders & Isolation Forest** for ML-driven anomaly discovery.
-
-<br/>
-
-Features dual CLI and interactive Streamlit analytics portal.
-
-<br/>
-
-`Python` `Streamlit` `Scikit-Learn` `Autoencoders`
-
-<br/>
-
-<a href="https://github.com/Niranjan-Murugarasu024" target="_blank">View Repository →</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/Niranjan-Murugarasu024?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Explore_All_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=4FD1C5" alt="Explore All Repositories"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-# 📊 GitHub Stats & Real-Time Analytics
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Niranjan-Murugarasu024&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=Niranjan-Murugarasu024&theme=dark&hide_border=false" alt="Contribution Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Niranjan-Murugarasu024&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243)
+![Polars](https://img.shields.io/badge/Polars-0D1117?style=for-the-badge&logo=polars&logoColor=CD792C)
+
+### 🏗️ Data Engineering
+
+![ETL/ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-0D1117?style=for-the-badge)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-0D1117?style=for-the-badge)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-0D1117?style=for-the-badge)
+![Data Lakehouse](https://img.shields.io/badge/Data%20Lakehouse-0D1117?style=for-the-badge)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0D1117?style=for-the-badge)
+![Data Quality](https://img.shields.io/badge/Data%20Quality-0D1117?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data%20Validation-0D1117?style=for-the-badge)
+![CDC](https://img.shields.io/badge/CDC%20Concepts-0D1117?style=for-the-badge)
+
+### 🗄️ Databases & Platforms
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+
+### ⚙️ Engineering & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+</p>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/XGBoost-0D1117?style=for-the-badge&logo=xgboost&logoColor=EC6B23)
+![Transformers](https://img.shields.io/badge/Transformers-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
+![PEFT](https://img.shields.io/badge/PEFT-0D1117?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-0D1117?style=for-the-badge)
+
+---
+
+# 🚀 Featured Projects
+
+<table width="100%">
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🏢 Enterprise Sales Data Warehouse
+
+**End-to-End Data Engineering Project**
+
+Built an end-to-end SQL Server data warehouse integrating heterogeneous **CRM and ERP datasets** into a centralized analytical platform.
+
+### Key Work
+
+- Designed **Bronze → Silver → Gold** data architecture
+- Built SQL-based ETL workflows
+- Performed data cleansing and standardization
+- Implemented **dimensional modeling**
+- Designed **Fact & Dimension tables**
+- Built a **Star Schema**
+- Implemented data-quality validation checks
+- Created analytical outputs for customer, product and sales analysis
+- Documented architecture, data flow and data catalog
+
+**Tech:** `SQL Server` `T-SQL` `ETL` `Data Warehousing` `Dimensional Modeling` `Star Schema`
+
+[View Project →](https://github.com/Niranjan-Murugarasu024/sql-datawarehouse-project)
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📊 DLMAI
+
+**District-Level Market Attractiveness Index**
+
+A reproducible data engineering and analytical pipeline integrating heterogeneous government datasets across **780+ Indian districts**.
+
+### Key Work
+
+- Integrated six heterogeneous datasets
+- Standardized inconsistent schemas
+- Performed entity resolution
+- Built district crosswalks
+- Handled historical district changes
+- Implemented missing-data processing
+- Added confidence-aware validation
+- Built feature engineering pipeline
+- Generated analytical datasets for downstream scoring
+
+**Tech:** `Python` `Pandas` `NumPy` `Data Processing` `Entity Resolution` `Data Validation`
+
+### Result
+
+**3,000 Monte Carlo perturbations**
+
+**Mean Spearman ρ = 0.97**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📈 AI Stock Price Prediction
+
+**Time-Series Forecasting Pipeline**
+
+Developed a multi-model forecasting system for financial time-series data.
+
+### Models
+
+- LSTM
+- GRU
+- Transformer
+
+### Engineering
+
+- Data preprocessing
+- Feature engineering
+- Model evaluation
+- Time-series validation
+- Forecast generation
+- API-based model serving
+
+**Tech:** `Python` `PyTorch` `LSTM` `GRU` `Transformers` `FastAPI`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧠 Neural Code Smell Detector
+
+**AI-Assisted Code Analysis**
+
+Fine-tuned **CodeBERT** to identify Python code smells and combined model predictions with static code analysis.
+
+### Key Work
+
+- CodeBERT fine-tuning
+- Python code analysis
+- Feature extraction
+- Static analysis integration
+- Explainable code-quality scoring
+
+**Tech:** `Python` `PyTorch` `CodeBERT` `NLP` `Static Analysis`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🏆 What I'm Building Toward
+
+My long-term technical direction sits at the intersection of:
+
+```text
+                    DATA ENGINEERING
+                          │
+             ┌────────────┼────────────┐
+             │            │            │
+          Pipelines    Warehouses   Lakehouses
+             │            │            │
+             └────────────┼────────────┘
+                          │
+                    DATA PLATFORMS
+                          │
+             ┌────────────┼────────────┐
+             │                         │
+          Analytics                  AI/ML
+             │                         │
+             └────────────┬────────────┘
+                          │
+                  Intelligent Systems
+```
+
+I want to build **reliable data foundations that power analytics, machine learning and AI systems**.
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- PySpark
+- Data Lakehouse Architecture
+- Databricks
+- AWS Data Engineering
+- Data Pipeline Design
+- Data Quality Engineering
+- Data Modeling
+- Distributed Data Processing
+- AI/ML Engineering
+
+---
+
+# 🎓 Education
+
+**B.Tech — Artificial Intelligence & Data Science**
+
+Dr. N.G.P. Institute of Technology, Coimbatore  
+**2023 – 2027 | CGPA: 8.65**
+
+---
+
+# 🏅 Certifications & Activities
+
+- **Generative AI Fundamentals — Databricks**
+- **AI Fluency Framework — Anthropic**
+- **Elements of AI — University of Helsinki**
+- **GenAI Powered Data Analytics Job Simulation — Tata**
+- Author of **The AI Edge**, a monthly LinkedIn newsletter covering AI, data and emerging technologies
+- Presented research on an AI-powered Healthcare Data Handling Platform at Coimbatore Institute of Technology
+- Participated in **Illuminate Entrepreneurship Bootcamp — E-Cell, IIT Bombay**
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=Niranjan-Murugarasu024&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Niranjan-Murugarasu024&theme=dark&hide_border=false" height="170"/>
+
 <br/><br/>
 
-<h3>✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Niranjan-Murugarasu024&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="170"/>
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-<!-- =================================================== -->
-<!--                     FOOTER BANNER                   -->
-<!-- =================================================== -->
+### 🤝 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&custom_color_list=0d1117,161b22,1f2937&height=120&section=footer" width="100%" alt="Footer Banner"/>
+**Data Engineering • Data Platforms • AI/ML • Open Source**
 
-### 🤝 Let's Connect & Collaborate!
+<a href="https://linkedin.com/in/niranjan-murugarasu-b8b706289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Whether you are looking for an **AI/ML Engineer Fresher**, an **AI Product & GTM Specialist**, or want to collaborate on open-source projects — feel free to reach out!
+<a href="mailto:niranjanmurugarasu@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niranjan-murugarasu-b8b706289)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjanmurugarasu@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/BlueMen)
-
-<br/>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=Niranjan-Murugarasu024&icon=0&color=4fd1c5" alt="Visitor Counter"/>
+<a href="https://huggingface.co/BlueMen">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </a>
 
 </div>
