@@ -24,26 +24,12 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/niranjan-murugarasu-b8b706289">
-  🔗 LinkedIn
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="mailto:niranjanmurugarasu@gmail.com">
-  ✉️ Email
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://leetcode.com/u/niranjanmurugarasu">
-  🧩 LeetCode
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://huggingface.co/BlueMen">
-  🤗 Hugging Face
-</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://portfoliovercel-ebon-nu.vercel.app">
-  🌐 Portfolio
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-murugarasu-b8b706289)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfoliovercel-ebon-nu.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjanmurugarasu@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/niranjanmurugarasu)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/BlueMen)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niranjan-Murugarasu024)
 </div>
 
 <br/>
@@ -1256,62 +1242,10 @@ Interested in working on:
 ## Building reliable data systems today.
 ## Building intelligent systems tomorrow.
 
-<br/>
-
-<a href="https://linkedin.com/in/niranjan-murugarasu-b8b706289">
-🔗 LinkedIn
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="mailto:niranjanmurugarasu@gmail.com">
-✉️ Email
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/niranjanmurugarasu">
-🧩 LeetCode
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://huggingface.co/BlueMen">
-🤗 Hugging Face
-</a>
-
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="https://portfoliovercel-ebon-nu.vercel.app">
-🌐 Portfolio
-</a>
-
-<br/><br/>
-
-<sub>
-
-⚙️ Data Engineering
-&nbsp;•&nbsp;
-🏗️ Data Platforms
-&nbsp;•&nbsp;
-📊 Analytics
-&nbsp;•&nbsp;
-🤖 AI/ML
-
-</sub>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&custom_color_list=ffffff,f8fafc,e2e8f0&height=100&section=footer"
-  width="100%"
-  alt="Footer"
-/>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niranjan-murugarasu-b8b706289)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfoliovercel-ebon-nu.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niranjanmurugarasu@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/niranjanmurugarasu)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/BlueMen)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niranjan-Murugarasu024)
 </div>
